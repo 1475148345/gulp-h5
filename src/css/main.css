@@ -1,0 +1,17 @@
+div {
+  background: red;
+  font-size: 0.266667rem;
+}
+
+div {
+  width: 1.333333rem;
+  height: 2rem;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body {
+  background-color: #333;
+}

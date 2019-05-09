@@ -1,0 +1,11 @@
+@import 'index';
+$width:100px;
+div{
+    width:$width;
+    height: 150px;
+    text-align: center;
+    display: flex;
+}
+body{
+    background-color: #333;
+}
